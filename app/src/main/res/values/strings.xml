@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tether</string>
+    <string name="wallpaper_name">Tether Live Canvas</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to Tether</string>
+    <string name="welcome_subtitle">A shared space for you and your person</string>
+    
+    <!-- Pairing -->
+    <string name="pairing_title">Connect with Your Partner</string>
+    <string name="pairing_code_hint">Enter twin code</string>
+    <string name="pairing_invite">Invite Partner</string>
+    <string name="pairing_enter_code">I Have Code</string>
+    <string name="pairing_phrase_title">Your Connection Phrase</string>
+    
+    <!-- Canvas -->
+    <string name="canvas_draw">Draw</string>
+    <string name="canvas_stickers">Stickers</string>
+    <string name="canvas_text">Text</string>
+    <string name="canvas_background">Background</string>
+    <string name="canvas_clear">Clear</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_partner">Partner</string>
+    <string name="settings_reset_schedule">Canvas Reset Schedule</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_unpair">Unpair</string>
+    <string name="settings_delete_account">Delete Account</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_sync">Canvas Sync</string>
+    <string name="notification_syncing">Syncing canvas…</string>
+    
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">Network error. Check your connection.</string>
+    <string name="error_pairing">Failed to connect with partner.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tether_primary">#6366F1</color>
+    <color name="tether_primary_variant">#4F46E5</color>
+    <color name="tether_secondary">#F472B6</color>
+    <color name="tether_background">#FFF5E1</color>
+    <color name="tether_surface">#FFFFFF</color>
+    <color name="tether_on_primary">#FFFFFF</color>
+    <color name="tether_on_background">#1F2937</color>
+</resources>
